@@ -1,3 +1,8 @@
+---
+layout: home
+title: Welcome
+---
+
 # Welcome to My GitHub Pages Site
 
 This is a simple Jekyll site hosted on GitHub Pages. Jekyll automatically converts this Markdown file into beautiful HTML.
