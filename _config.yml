@@ -38,7 +38,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Your Name"
+      author: "Robbie Cahill"
   - scope:
       path: ""
     values:
