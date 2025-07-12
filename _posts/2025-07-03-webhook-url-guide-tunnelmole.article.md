@@ -2,7 +2,7 @@
 title: "The Ultimate Guide to Webhooks (including what a webhook url is)"
 description: "Learn what a webhook URL is, how webhooks work, and how to test webhooks locally using Tunnelmole. Step-by-step guide for developers."
 tags: ["webhook url", "url", "webhook", "api", "tunnelmole", "testing", "nodejs", "integration", "automation", "opensource", "devtools", "cloud", "ci", "webdevelopment"]
-canonical_url: "https://softwareengineeringstandard.com/2025/07/03/the-ultimate-guide-to-webhooks-including-what-a-webhook-url-is/"
+canonical_url: "https://softwareengineeringstandard.com/2025/07/03/webhook-url/"
 slug: "webhook-url"
 cover_image: "https://raw.githubusercontent.com/robbie-cahill/tunnelmole-client/main/docs/img/tunnelmole-demo.gif"
 published: true

@@ -2,7 +2,7 @@
 title: "How to Give Your IoT Device a Public URL (for Any IoT Platform) with Tunnelmole"
 description: "Learn how to expose your IoT device to the internet using Tunnelmole, an open source tunneling tool. Step-by-step guide for any IoT platform, with a Raspberry Pi example."
 tags: ["iot platform", "iot", "platform", "opensource", "javascript", "typescript", "python", "programming", "coding", "raspberrypi", "tunneling", "networking", "webhooks", "nodejs", "linux", "automation", "cloud", "devops"]
-canonical_url: "https://softwareengineeringstandard.com/2025/07/04/how-to-give-your-iot-device-a-public-url-for-any-iot-platform-with-tunnelmole/"
+canonical_url: "https://softwareengineeringstandard.com/2025/07/04/iot-platform/"
 slug: "iot-platform"
 cover_image: "https://raw.githubusercontent.com/robbie-cahill/tunnelmole-client/main/docs/img/tunnelmole-demo.gif"
 published: true

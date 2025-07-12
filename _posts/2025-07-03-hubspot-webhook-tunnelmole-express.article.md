@@ -2,7 +2,7 @@
 title: "How to Handle HubSpot Webhooks Locally with Tunnelmole and Express.js"
 description: "Step-by-step guide to receiving and testing HubSpot webhooks on your local Express.js app using Tunnelmole, the open source tunneling tool."
 tags: ["hubspot", "webhook", "expressjs", "tunnelmole", "opensource", "nodejs", "crm", "integration", "automation"]
-canonical_url: "https://softwareengineeringstandard.com/2025/07/03/how-to-handle-hubspot-webhooks-locally-with-tunnelmole-and-express-js/"
+canonical_url: "https://softwareengineeringstandard.com/2025/07/03/hubspot-webhook/"
 slug: "hubspot-webhook"
 cover_image: "https://raw.githubusercontent.com/robbie-cahill/tunnelmole-client/main/docs/img/tunnelmole-demo.gif"
 published: true

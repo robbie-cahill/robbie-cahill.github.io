@@ -2,7 +2,7 @@
 title: "How to Handle Zapier Webhooks Locally with Tunnelmole and Express.js"
 description: "Step-by-step guide to receiving and testing Zapier webhooks on your local Express.js app using Tunnelmole, the open source tunneling tool."
 tags: ["zapier", "webhook", "expressjs", "tunnelmole", "opensource", "nodejs", "automation", "integration"]
-canonical_url: "https://softwareengineeringstandard.com/2025/07/03/how-to-handle-zapier-webhooks-locally-with-tunnelmole-and-express-js/"
+canonical_url: "https://softwareengineeringstandard.com/2025/07/03/zapier-webhook-tunnelmole-express/"
 slug: "zapier-webhook-tunnelmole-express"
 cover_image: "https://raw.githubusercontent.com/robbie-cahill/tunnelmole-client/main/docs/img/tunnelmole-demo.gif"
 published: true

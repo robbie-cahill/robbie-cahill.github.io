@@ -2,7 +2,7 @@
 title: "How to Get a Public URL for Linux Mint with Tunnelmole"
 description: "Expose your Linux Mint machine to the internet with a secure public URL using Tunnelmole. Step-by-step guide for developers and tinkerers."
 tags: ["linuxmint", "linux", "mint", "publicurl", "opensource", "javascript", "typescript", "python", "programming", "coding", "devops", "cloud", "tunneling", "webhooks", "nodejs", "selfhost", "networking"]
-canonical_url: "https://softwareengineeringstandard.com/2025/07/04/how-to-get-a-public-url-for-linux-mint-with-tunnelmole/"
+canonical_url: "https://softwareengineeringstandard.com/2025/07/04/linux-mint/"
 slug: "linux-mint"
 cover_image: "https://raw.githubusercontent.com/robbie-cahill/tunnelmole-client/main/docs/img/tunnelmole-demo.gif"
 published: true

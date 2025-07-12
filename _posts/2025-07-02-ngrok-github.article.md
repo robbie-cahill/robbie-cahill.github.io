@@ -3,7 +3,7 @@ title: "Ngrok GitHub: The New Ngrok Isn’t Open Source, But Here’s a drop-in 
 description: "Looking for an open source tunneling solution? Discover Tunnelmole, a fully open source tunneling tool available on GitHub, with free public URLs and self-hosting options. You won't find the latest ngrok in the ngrok github repos"
 slug: "the-latest-ngrok-is-not-on-the-ngrok-github"
 tags: ["ngrok", "github", "opensource", "tunneling", "devtools"]
-canonical_url: "https://softwareengineeringstandard.com/2025/07/02/ngrok-github-the-new-ngrok-isnt-open-source-but-heres-a-drop-in-open-source-alternative/"
+canonical_url: "https://softwareengineeringstandard.com/2025/07/02/the-latest-ngrok-is-not-on-the-ngrok-github/"
 cover_image: "https://raw.githubusercontent.com/robbie-cahill/tunnelmole-client/main/docs/img/tunnelmole-demo.gif"
 published: true
 ---

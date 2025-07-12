@@ -2,7 +2,7 @@
 title: "The Best ngrok alternative for Mac: Tunnelmole - Open Source"
 description: "Looking for an ngrok alternative for Mac? Discover Tunnelmole, a free, open source tunneling tool that makes sharing your localhost on macOS fast and easy."
 tags: ["ngrok", "mac", "tunneling", "opensource", "developertools"]
-canonical_url: "https://softwareengineeringstandard.com/2025/06/24/ngrok-alternative-for-mac/"
+canonical_url: "https://softwareengineeringstandard.com/2025/06/24/ngrok-alternative-for-mac/" 
 cover_image: "https://raw.githubusercontent.com/robbie-cahill/tunnelmole-client/main/docs/img/tunnelmole-demo.gif"
 published: true
 ---

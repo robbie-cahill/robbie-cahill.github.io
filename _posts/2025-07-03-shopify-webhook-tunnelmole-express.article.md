@@ -2,7 +2,7 @@
 title: "How to Handle Shopify Webhooks with Tunnelmole and Express.js"
 description: "Learn how to receive Shopify webhooks on your local Express.js app using Tunnelmole, the open source tunneling tool. Step-by-step guide for developers."
 tags: ["shopify", "webhook", "expressjs", "tunnelmole", "opensource", "nodejs"]
-canonical_url: "https://softwareengineeringstandard.com/2025/07/03/how-to-handle-shopify-webhooks-with-tunnelmole-and-express-js/"
+canonical_url: "https://softwareengineeringstandard.com/2025/07/03/shopify-webhook/"
 slug: "shopify-webhook"
 cover_image: "https://raw.githubusercontent.com/robbie-cahill/tunnelmole-client/main/docs/img/tunnelmole-demo.gif"
 published: true

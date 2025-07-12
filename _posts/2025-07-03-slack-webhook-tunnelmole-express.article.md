@@ -2,7 +2,7 @@
 title: "How to Handle Slack Webhooks and Events Locally with Tunnelmole and Express.js"
 description: "Step-by-step guide to receiving and testing Slack webhooks and Events API notifications on your local Express.js app using Tunnelmole, the open source tunneling tool."
 tags: ["slack", "webhook", "eventsapi", "expressjs", "tunnelmole", "opensource", "nodejs", "integration", "automation"]
-canonical_url: "https://softwareengineeringstandard.com/2025/07/03/how-to-handle-slack-webhooks-and-events-locally-with-tunnelmole-and-express-js/"
+canonical_url: "https://softwareengineeringstandard.com/2025/07/03/slack-webhook/"
 slug: "slack-webhook"
 cover_image: "https://raw.githubusercontent.com/robbie-cahill/tunnelmole-client/main/docs/img/tunnelmole-demo.gif"
 published: true

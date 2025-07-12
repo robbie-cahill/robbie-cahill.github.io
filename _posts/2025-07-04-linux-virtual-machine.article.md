@@ -2,7 +2,7 @@
 title: "How to Get a Public URL for Your Linux Virtual Machine with Tunnelmole"
 description: "Expose your Linux virtual machine to the internet with a secure public URL using Tunnelmole. Step-by-step guide for developers and sysadmins."
 tags: ["linux", "linuxvirtualmachine", "vm", "virtualmachine", "opensource", "javascript", "typescript", "python", "programming", "coding", "devops", "cloud", "tunneling", "webhooks", "nodejs", "selfhost", "networking"]
-canonical_url: "https://softwareengineeringstandard.com/2025/07/04/how-to-get-a-public-url-for-your-linux-virtual-machine-with-tunnelmole/"
+canonical_url: "https://softwareengineeringstandard.com/2025/07/04/linux-virtual-machine/"
 slug: "linux-virtual-machine"
 cover_image: "https://raw.githubusercontent.com/robbie-cahill/tunnelmole-client/main/docs/img/tunnelmole-demo.gif"
 published: true
